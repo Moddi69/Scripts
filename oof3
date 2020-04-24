@@ -1,0 +1,74 @@
+local string_1 = "Class";
+local string_2 = "2";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "3";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "4";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "5";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "6";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "7";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "8";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "9";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "10";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "11";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "12";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "13";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "14";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "15";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
+
+local string_1 = "Class";
+local string_2 = "16";
+local Target = game:GetService("ReplicatedStorage").Events.GeneralFunction;
+Target:InvokeServer(string_1, string_2);
